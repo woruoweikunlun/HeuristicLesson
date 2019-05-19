@@ -15,4 +15,4 @@
 - [迭代局部搜索算法(Iterated local search)探幽（附C++代码及注释）](https://github.com/dengfaheng/IteratedLocalSearch)
 - [变邻域搜索算法(VNS)求解TSP（附C++详细代码及注释）](https://github.com/dengfaheng/VariableNeighborhoodSearchTSP)
 - [变邻域搜索算法解决0-1背包问题(Knapsack Problem)代码实例](https://github.com/dengfaheng/VariableNeighborhoodSearchKnapsackProblem)
-- [遗传算法(Genetic Algorithm) Java 详细代码及注释](https://github.com/dengfaheng/GeneticAlgorithmTSP)
+- [用模拟退火(SA, Simulated Annealing)算法解决旅行商问题](https://pan.baidu.com/s/1bqMjoE7)
