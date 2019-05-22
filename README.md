@@ -16,3 +16,6 @@
 - [变邻域搜索算法(VNS)求解TSP（附C++详细代码及注释）](https://github.com/dengfaheng/VariableNeighborhoodSearchTSP)
 - [变邻域搜索算法解决0-1背包问题(Knapsack Problem)代码实例](https://github.com/dengfaheng/VariableNeighborhoodSearchKnapsackProblem)
 - [用模拟退火(SA, Simulated Annealing)算法解决旅行商问题](https://pan.baidu.com/s/1bqMjoE7)
+
+SA的伪代码：
+![](https://upload-images.jianshu.io/upload_images/10386940-737f04c3f292ab8a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
